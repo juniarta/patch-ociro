@@ -1,0 +1,15 @@
+;모든 레이어 명령은 R3레퍼런스 참조.
+layer 0
+{
+	type 3
+	map_name .\Chef\GradeEffect\Agrade.dds	;env5.bmp		;aurad5.DDS	;2001114.dds
+	alpha	100
+	color	255 255 255
+
+
+	uv_env 1
+
+	ani_alpha_flicker	2
+	ani_alpha_flicker_start	0
+	ani_alpha_flicker_end	2
+}

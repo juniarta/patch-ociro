@@ -1,0 +1,17 @@
+;이벤트 사운드 출력 스크립트. bgm, 음성 등등.. 
+[BGMList]
+====================
+;이벤트 BGM
+====================
+--------------------
+;엘란(Elan)
+--------------------
+1	.\Snd\BGM\NeutralAS2_00.mp3			;락죠
+2	.\Snd\BGM\NeutralAS2_00.mp3			;타라벤
+3	.\Snd\BGM\NeutralAS2_00.mp3			;블링크
+4	.\Snd\BGM\NeutralAS2_00.mp3			;칼리아나 퀸
+5	.\Snd\BGM\NeutralAS2_00.mp3			;소울 신더
+6	.\Snd\BGM\Battle_Dungeon_Boss_00.mp3		;다곤
+7	.\Snd\BGM\Battle_Dungeon_Boss_00.mp3		;다간
+8	.\Snd\BGM\Cauldron_Boss_00.mp3		        ;다그누
+

@@ -1,0 +1,26 @@
+;모든 레이어 명령은 R3레퍼런스 참조.
+layer 0
+{
+	type 3
+	map_name .\Chef\GradeEffect\Bgrade.dds	;111.bmp	;env_t02.dds	;elec11.dds
+	alpha	255
+	color	255 255 255
+
+	uv_scale 0.5
+	uv_scale_end 1 
+	uv_scale_speed	2
+	uv_scroll_u	1	
+	uv_scroll_v	1
+	;uv_rotate 1
+
+
+
+	;ani_tex_frame  6
+	;ani_tex_speed  10
+	ani_alpha_flicker	3
+	ani_alpha_flicker_start	0
+	ani_alpha_flicker_end	1
+}
+
+
+
